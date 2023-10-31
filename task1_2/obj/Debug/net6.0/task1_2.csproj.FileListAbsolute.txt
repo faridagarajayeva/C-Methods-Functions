@@ -1,0 +1,14 @@
+C:\Users\farida.gojayeva\source\repos\task1_2\task1_2\bin\Debug\net6.0\task1_2.exe
+C:\Users\farida.gojayeva\source\repos\task1_2\task1_2\bin\Debug\net6.0\task1_2.deps.json
+C:\Users\farida.gojayeva\source\repos\task1_2\task1_2\bin\Debug\net6.0\task1_2.runtimeconfig.json
+C:\Users\farida.gojayeva\source\repos\task1_2\task1_2\bin\Debug\net6.0\task1_2.dll
+C:\Users\farida.gojayeva\source\repos\task1_2\task1_2\bin\Debug\net6.0\task1_2.pdb
+C:\Users\farida.gojayeva\source\repos\task1_2\task1_2\obj\Debug\net6.0\task1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farida.gojayeva\source\repos\task1_2\task1_2\obj\Debug\net6.0\task1_2.AssemblyInfoInputs.cache
+C:\Users\farida.gojayeva\source\repos\task1_2\task1_2\obj\Debug\net6.0\task1_2.AssemblyInfo.cs
+C:\Users\farida.gojayeva\source\repos\task1_2\task1_2\obj\Debug\net6.0\task1_2.csproj.CoreCompileInputs.cache
+C:\Users\farida.gojayeva\source\repos\task1_2\task1_2\obj\Debug\net6.0\task1_2.dll
+C:\Users\farida.gojayeva\source\repos\task1_2\task1_2\obj\Debug\net6.0\refint\task1_2.dll
+C:\Users\farida.gojayeva\source\repos\task1_2\task1_2\obj\Debug\net6.0\task1_2.pdb
+C:\Users\farida.gojayeva\source\repos\task1_2\task1_2\obj\Debug\net6.0\task1_2.genruntimeconfig.cache
+C:\Users\farida.gojayeva\source\repos\task1_2\task1_2\obj\Debug\net6.0\ref\task1_2.dll
